@@ -1,0 +1,8 @@
+2175070   ,Duong Gia Lac         ,Nam        ,20/08/1985   ,0902615247  ,LAC.DG@gamil.com.vn ,NVKD      ,7000000       ,800000      ,7800000
+3223521   ,Ngo Gia Huy           ,Nam        ,02/04/1993   ,0832650147  ,HUY.NG@gmail.com.vn ,NVVP      ,8000000       ,800000      ,8800000
+
+1142568   ,Trinh Hoang Kim       ,Nu         ,30/05/1970   ,0969725341  ,KIM.TH@gmail.com.vn ,NVKT      ,8000000       ,1200000     ,9200000
+2357596   ,Phan Ngoc Kim         ,Nu         ,25/03/1993   ,0909141365  ,KIM.PN@gmail.com.vn ,NVKD      ,6500000       ,600000      ,7100000
+3171524   ,Pham Hoang Khang      ,Nam        ,15/11/1987   ,0909316642  ,KHANG.PH@gmail.com.vn,NVVP      ,9000000       ,900000      ,9900000
+
+1543425   ,Nguyen Thi Thanh      ,Nu         ,08/05/1990   ,0933751302  ,THANH.NT@gmail.com.vn,NVKT      ,8000000       ,1200000     ,9200000
